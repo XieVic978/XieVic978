@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Victor Xie 
 
-I am a computer science major at Cal Poly SLO, and I am interested in Full Stack Development 
+I am a computer science major at Cal Poly SLO, and I am interested in Full-Stack Development 
 
-- 🔭 I’m currently working on NoteSharer, which is a project developed by CdoeBox, a coding club at Cal Poly. We are using Next.JS for the frontend, and Supabase for authentication and database
+- 🔭 I’m currently working on NoteSharer, which is a project developed by CdoeBox, a coding club at Cal Poly. We are using Next.js for the frontend, and Supabase for authentication and database
 - 🌱 I’m also interning at https://www.ipick.ai/, a website that uses agentic AI to analyze stocks and predict market trends.
     Github account: https://github.com/xievic9780  
 
