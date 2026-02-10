@@ -1,4 +1,4 @@
-#Hi there 👋 My name is Victor Xie 😁
+# Hi there 👋 My name is Victor Xie 😁
 
 🎓 I am a computer science major at Cal Poly SLO, interested in building full-stack web applications that benefit users in real time, from advanced backend systems to polished frontend experiences.
 
