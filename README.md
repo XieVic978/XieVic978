@@ -7,8 +7,9 @@ Hi there 👋 My name is Victor Xie 😁
     Github account: https://github.com/xievic9780
 
   Feel free to check my LinkedIn and Instagram for more information about me!!
-  LinkedIn: https://www.linkedin.com/in/victor-xie-767626301/
-  Instagram: https://www.instagram.com/victor_xieee/
+  
+-   LinkedIn: https://www.linkedin.com/in/victor-xie-767626301/ 
+-   Instagram: https://www.instagram.com/victor_xieee/ 
 
 
 
