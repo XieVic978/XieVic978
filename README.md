@@ -6,10 +6,10 @@
 - 📈 I’m also interning at https://www.ipick.ai/, a website that uses agentic AI to analyze stocks and predict market trends.
     Github account: https://github.com/xievic9780
 
-### Feel free to check my LinkedIn and Instagram for more information about me!!
+### Feel free to check my LinkedIn for more information about me!
   
 -   LinkedIn: https://www.linkedin.com/in/victor-xie-767626301/ 
--   Instagram: https://www.instagram.com/victor_xieee/ 
+
 
 
 
