@@ -4,7 +4,11 @@ Hi there 👋 My name is Victor Xie 😁
 
 - 🗒️ I’m currently working on NoteSharer, which is a project developed by CdoeBox, a coding club at Cal Poly. We are using Next.js for the frontend, and Supabase for authentication and database
 - 📈 I’m also interning at https://www.ipick.ai/, a website that uses agentic AI to analyze stocks and predict market trends.
-    Github account: https://github.com/xievic9780  
+    Github account: https://github.com/xievic9780
+
+  Feel free to check my LinkedIn and Instagram for more information about me!!
+  LinkedIn: https://www.linkedin.com/in/victor-xie-767626301/
+  Instagram: https://www.instagram.com/victor_xieee/
 
 
 
