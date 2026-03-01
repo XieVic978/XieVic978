@@ -1,4 +1,4 @@
-# Hello 👋 My name is Victor Xie 😁
+# Hello, I'm Victor 👋
 
 🎓 I am a cs major @ Cal Poly SLO 
 
