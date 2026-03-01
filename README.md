@@ -1,6 +1,6 @@
-# Hi there 👋 My name is Victor Xie 😁
+# Hello 👋 My name is Victor Xie 😁
 
-🎓 I am a computer science major at Cal Poly SLO, interested in building full-stack web applications that benefit users in real time, from advanced backend systems to polished frontend experiences.
+🎓 I am a cs major @ Cal Poly SLO 
 
 - 🗒️ I’m currently working on NoteSharer, which is a project developed by CdoeBox, a coding club at Cal Poly. We are using Next.js for the frontend, and Supabase for authentication and database
 - 📈 I’m also interning at https://www.ipick.ai/, a website that uses agentic AI to analyze stocks and predict market trends.
